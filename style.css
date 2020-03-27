@@ -15,12 +15,15 @@
 }
 li {
     padding: 20px;
+    border-right: 1px solid #bbb;
 }
 
 a   {
     color: white;
     text-decoration: none;
 }
+li a:hover {
+    background-color: #111;
 
 body    {
     margin: auto 0;
@@ -30,3 +33,8 @@ body    {
 .push {
     margin-left: auto;
 }
+ul {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+  }
