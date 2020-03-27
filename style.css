@@ -13,3 +13,20 @@
         padding: 0;
     }
 }
+li {
+    padding: 20px;
+}
+
+a   {
+    color: white;
+    text-decoration: none;
+}
+
+body    {
+    margin: auto 0;
+    background: #658BA1
+}
+
+.push {
+    margin-left: auto;
+}
