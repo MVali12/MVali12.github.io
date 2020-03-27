@@ -6,6 +6,7 @@
     background: #093E5C;
     font-family: Arial;
     margin-right: 0px;
+    padding-inline-start: 10px;
 }
 
 @media only screen and (max-width: 600px) {
